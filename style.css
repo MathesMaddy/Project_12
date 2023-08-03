@@ -1,0 +1,19 @@
+body{
+    margin:0px;    
+}
+h1{
+    text-align: center;
+    height:100px;
+    line-height:500px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:60px;
+    font-variant-caps: all-petite-caps;
+    color:white;
+}img{
+    opacity: 0.3;
+    position: absolute;
+    background-size:cover;left:0%; top:0%;
+    width:100%; 
+    height:auto;  
+    overflow: hidden;    
+}
